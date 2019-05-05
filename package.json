@@ -1,0 +1,19 @@
+{
+  "name": "livequery",
+  "version": "1.0.0",
+  "description": "The javascript client that brings the power of LiveQuery to every frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostrebler/livequery.git"
+  },
+  "author": "ostrebler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostrebler/livequery/issues"
+  },
+  "homepage": "https://github.com/ostrebler/livequery#readme"
+}
