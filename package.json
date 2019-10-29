@@ -1,0 +1,36 @@
+{
+  "name": "livequery",
+  "version": "1.0.0",
+  "description": "A lightweight and developer-friendly tool to query robust live APIs (ie. with real-time updates)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ostrebler/livequery.git"
+  },
+  "keywords": [
+    "query",
+    "action",
+    "live",
+    "client",
+    "mutation",
+    "api",
+    "realtime",
+    "update",
+    "automatic",
+    "socket",
+    "request"
+  ],
+  "author": "ostrebler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostrebler/livequery/issues"
+  },
+  "homepage": "https://github.com/ostrebler/livequery#readme",
+  "dependencies": {
+    "deep-diff": "^1.0.2",
+    "socket.io-client": "^2.3.0"
+  }
+}
