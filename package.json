@@ -30,7 +30,9 @@
   },
   "homepage": "https://github.com/ostrebler/livequery#readme",
   "dependencies": {
-    "deep-diff": "^1.0.2",
-    "socket.io-client": "^2.3.0"
+    "lodash": "^4.17.15",
+    "rfc6902": "^3.0.4",
+    "socket.io-client": "^2.3.0",
+    "zen-observable": "^0.8.14"
   }
 }
